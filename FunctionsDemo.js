@@ -29,3 +29,7 @@ Mult(5,6)
 
 
 // This is feature2.0
+
+for(let i=0; i<=5; i++){
+    console.log("new_bug git");
+}
