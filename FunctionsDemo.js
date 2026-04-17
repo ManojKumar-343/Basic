@@ -38,9 +38,3 @@ for(let i =0; i<=5; i++){
 
 
 // This is Commit 1
-
-// This is Commit 2
-
-// This is Commit 3
-
-// This is Commit 4
